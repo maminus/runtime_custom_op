@@ -11,3 +11,5 @@ There are simple FMA(fused multiply-add) custom operator samples.
 * [pure Python sample](fma_pure_python)
 * [C++ implementation sample](fma_use_t)
 * [C++ implementation multi-domain sample](fma_multi_domain)
+* [CUDA implementation multi-domain sample](fma_multi_with_cuda)
+
